@@ -3,7 +3,7 @@ import random
 import math
 import os
 
-DATA_PATH = os.path.join(os.path.dirname(__file__), "ranking.json")
+DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "ranking.json")
 
 # 都道府県別人口（重み計算に使用。増分の大きさも人口比に緩く比例させる）
 population = {

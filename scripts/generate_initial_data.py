@@ -1,5 +1,6 @@
 import json
 import math
+import os
 
 # 都道府県別人口（2024年推計、万人単位で概算）
 population = {
@@ -34,7 +35,8 @@ for pref, pop in population.items():
         "male": round(base * 0.85)  # 男性部門はやや控えめ（恣意的な差ではなく初期演出上の目安。要調整）
     }
 
-with open("/home/claude/ranking_initial.json", "w", encoding="utf-8") as f:
+DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "ranking.json")
+with open(DATA_PATH, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 # 確認用に上位・下位を表示
@@ -45,4 +47,5 @@ for pref, v in sorted_data[:5]:
 print("=== 下位5件 ===")
 for pref, v in sorted_data[-5:]:
     print(f"{pref}: 女性 {v['female']} / 男性 {v['male']}")
+
 print(f"\n合計区分数: {len(data) * 2}")

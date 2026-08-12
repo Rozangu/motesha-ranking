@@ -1,139 +1,139 @@
 {
   "北海道": {
-    "female": 58,
-    "male": 47
+    "female": 59,
+    "male": 49
   },
   "青森県": {
-    "female": 20,
+    "female": 21,
     "male": 17
   },
   "岩手県": {
-    "female": 20,
-    "male": 17
-  },
-  "宮城県": {
-    "female": 33,
-    "male": 28
-  },
-  "秋田県": {
-    "female": 16,
-    "male": 14
-  },
-  "山形県": {
-    "female": 18,
-    "male": 14
-  },
-  "福島県": {
-    "female": 27,
-    "male": 22
-  },
-  "茨城県": {
-    "female": 40,
-    "male": 32
-  },
-  "栃木県": {
-    "female": 29,
-    "male": 25
-  },
-  "群馬県": {
-    "female": 28,
-    "male": 25
-  },
-  "埼玉県": {
-    "female": 71,
-    "male": 60
-  },
-  "千葉県": {
-    "female": 65,
-    "male": 57
-  },
-  "東京都": {
-    "female": 102,
-    "male": 92
-  },
-  "神奈川県": {
-    "female": 78,
-    "male": 69
-  },
-  "新潟県": {
-    "female": 31,
-    "male": 26
-  },
-  "富山県": {
-    "female": 17,
-    "male": 15
-  },
-  "石川県": {
-    "female": 17,
-    "male": 15
-  },
-  "福井県": {
-    "female": 13,
-    "male": 11
-  },
-  "山梨県": {
-    "female": 14,
-    "male": 11
-  },
-  "長野県": {
-    "female": 31,
-    "male": 25
-  },
-  "岐阜県": {
-    "female": 29,
-    "male": 25
-  },
-  "静岡県": {
-    "female": 44,
-    "male": 39
-  },
-  "愛知県": {
-    "female": 72,
-    "male": 64
-  },
-  "三重県": {
-    "female": 27,
-    "male": 23
-  },
-  "滋賀県": {
-    "female": 23,
-    "male": 20
-  },
-  "京都府": {
-    "female": 36,
-    "male": 31
-  },
-  "大阪府": {
-    "female": 81,
-    "male": 66
-  },
-  "兵庫県": {
-    "female": 57,
-    "male": 51
-  },
-  "奈良県": {
     "female": 21,
     "male": 18
   },
-  "和歌山県": {
+  "宮城県": {
+    "female": 34,
+    "male": 29
+  },
+  "秋田県": {
+    "female": 17,
+    "male": 15
+  },
+  "山形県": {
+    "female": 18,
+    "male": 15
+  },
+  "福島県": {
+    "female": 28,
+    "male": 23
+  },
+  "茨城県": {
+    "female": 41,
+    "male": 33
+  },
+  "栃木県": {
+    "female": 29,
+    "male": 26
+  },
+  "群馬県": {
+    "female": 29,
+    "male": 26
+  },
+  "埼玉県": {
+    "female": 76,
+    "male": 63
+  },
+  "千葉県": {
+    "female": 67,
+    "male": 58
+  },
+  "東京都": {
+    "female": 107,
+    "male": 98
+  },
+  "神奈川県": {
+    "female": 82,
+    "male": 74
+  },
+  "新潟県": {
+    "female": 32,
+    "male": 28
+  },
+  "富山県": {
+    "female": 17,
+    "male": 16
+  },
+  "石川県": {
+    "female": 18,
+    "male": 16
+  },
+  "福井県": {
     "female": 14,
     "male": 12
   },
-  "鳥取県": {
-    "female": 9,
-    "male": 8
+  "山梨県": {
+    "female": 15,
+    "male": 12
   },
-  "島根県": {
-    "female": 10,
-    "male": 9
+  "長野県": {
+    "female": 32,
+    "male": 26
   },
-  "岡山県": {
+  "岐阜県": {
+    "female": 30,
+    "male": 25
+  },
+  "静岡県": {
+    "female": 45,
+    "male": 41
+  },
+  "愛知県": {
+    "female": 75,
+    "male": 67
+  },
+  "三重県": {
     "female": 28,
     "male": 24
   },
-  "広島県": {
-    "female": 37,
+  "滋賀県": {
+    "female": 24,
+    "male": 21
+  },
+  "京都府": {
+    "female": 36,
     "male": 32
+  },
+  "大阪府": {
+    "female": 86,
+    "male": 69
+  },
+  "兵庫県": {
+    "female": 59,
+    "male": 53
+  },
+  "奈良県": {
+    "female": 22,
+    "male": 19
+  },
+  "和歌山県": {
+    "female": 15,
+    "male": 13
+  },
+  "鳥取県": {
+    "female": 10,
+    "male": 8
+  },
+  "島根県": {
+    "female": 11,
+    "male": 9
+  },
+  "岡山県": {
+    "female": 29,
+    "male": 25
+  },
+  "広島県": {
+    "female": 38,
+    "male": 33
   },
   "山口県": {
     "female": 21,
@@ -141,50 +141,50 @@
   },
   "徳島県": {
     "female": 12,
-    "male": 10
+    "male": 11
   },
   "香川県": {
     "female": 15,
-    "male": 14
+    "male": 15
   },
   "愛媛県": {
-    "female": 21,
-    "male": 18
+    "female": 22,
+    "male": 19
   },
   "高知県": {
-    "female": 12,
-    "male": 10
+    "female": 13,
+    "male": 11
   },
   "福岡県": {
-    "female": 55,
-    "male": 50
+    "female": 57,
+    "male": 53
   },
   "佐賀県": {
-    "female": 14,
-    "male": 12
+    "female": 15,
+    "male": 13
   },
   "長崎県": {
-    "female": 21,
-    "male": 17
+    "female": 22,
+    "male": 18
   },
   "熊本県": {
-    "female": 26,
-    "male": 22
+    "female": 27,
+    "male": 23
   },
   "大分県": {
+    "female": 20,
+    "male": 17
+  },
+  "宮崎県": {
     "female": 19,
     "male": 16
   },
-  "宮崎県": {
-    "female": 17,
-    "male": 15
-  },
   "鹿児島県": {
-    "female": 23,
-    "male": 21
-  },
-  "沖縄県": {
     "female": 24,
     "male": 22
+  },
+  "沖縄県": {
+    "female": 25,
+    "male": 23
   }
 }
